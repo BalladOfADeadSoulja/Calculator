@@ -1,0 +1,4 @@
+C:\Users\olegk\source\repos\TestFormsC++\TestFormsC++\x64\Debug\TestFormsC++.vcxproj.AssemblyReference.cache
+C:\Users\olegk\source\repos\TestFormsC++\TestFormsC++\x64\Debug\TestFormsC++.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\olegk\source\repos\TestFormsC++\TestFormsC++\x64\Debug\TestFormsC.MyForm.resources
+C:\Users\olegk\source\repos\TestFormsC++\TestFormsC++\x64\Debug\TestFormsC++.vcxproj.GenerateResource.cache
